@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [www.frontendmentor.io/solutions/responsive-qr-code-component-using-css-6CuHH22k7T](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-css-6CuHH22k7T)
+- Live Site URL: [https://gitdevutku.github.io](https://gitdevutku.github.io)
 
 ### Built with
 
@@ -35,6 +35,6 @@ While doing this challenge I learned how to use CSS better and use some HTML5 te
 ## Author
 
 - Website - [Utku Berki Baysal](gitdevutku.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@gitdevutku](https://www.frontendmentor.io/profile/gitdevutku)
 
 
