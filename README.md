@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 While doing this challenge I learned how to use CSS better and use some HTML5 techniques
 ## Author
 
-- Website - [https://gitdevutku.github.io](gitdevutku.github.io)
+- Website - [https://gitdevutku.github.io](https://gitdevutku.github.io/#)
 - Frontend Mentor - [@gitdevutku](https://www.frontendmentor.io/profile/gitdevutku)
 
 
